@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a lot Application Insight monitoring in Azure.
-- 🌱 I’m currently studying for the AZ-104 exam!
+- 🌱 I just passed the AZ-104 exam!
 - 🤔 I’m looking for help with Azure Bicep best practices.
 - 💬 Ask me about how to make sure your production support doesn't fail. 
 - 📫 How to reach me: michael.r.see@outlook.com
