@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a lot Application Insight monitoring in Azure.
-- 🌱 I've recently passed the AZ-400 exam!.
+- 🔭 I’m currently working on AKS in Azure.
+- 🌱 I've recently passed the AZ-400 exam!
 - 🤔 I’m looking for help with Azure Bicep best practices.
 - 😄 Pronouns: He/Him
