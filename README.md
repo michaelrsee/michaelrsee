@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on AKS in Azure.
-- 🌱 I've recently passed the AZ-400 exam!
-- 🤔 I’m looking for help with Azure Bicep best practices.
+- 🔭 I’m currently working on many things in Azure.
+- 🌱 I've recently finished my Master's Degree in Information Systems!
+- 🤔 I’m always looking for help with Azure Bicep best practices.
