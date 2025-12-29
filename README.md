@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on many things in Azure.
-- 🌱 I've recently finished a Master's Degree in Information Systems!
-- 🤔 I’m always looking for help with Azure Bicep best practices.
+- 🔭 I have been working in Azure for the last 8 years and now focusing on AWS.
+- 🌱 I am now working on a Doctorate in Management, focusing on Organizational Leadership. 
